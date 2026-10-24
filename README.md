@@ -5,7 +5,7 @@ Static site + one Cloudflare Pages Function for the inquiry form.
     index.html              the site
     assets/                 images and icons
     functions/api/contact.js  POST /api/contact -> emails the inquiry (via Resend)
-    _headers                caching / security headers
+    _headers                caching / security headers 
 
 ## Deploy
 1. Push this folder to a GitHub repo (e.g. magicpizzaguy).
